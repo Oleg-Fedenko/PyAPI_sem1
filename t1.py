@@ -8,7 +8,7 @@ with open('config.yaml') as file:
 url = my_dict['url']
 url1 = my_dict['url1']
 website = 'https://test-stand.gb.ru/api/posts'
-username = 'KiraZ2'
+username = 'Oleg95'
 password = 'gi89mjb90f'
 
 
